@@ -1,4 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## TODO MASTER (REACT APP)
+A simple Todo web App , created with the help of React.
+
+![Screenshot](screenshot.png)
 
 ## Available Scripts
 
