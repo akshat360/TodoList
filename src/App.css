@@ -1,0 +1,95 @@
+body {
+  background: #0e9aa7;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  margin-bottom: 5%;
+}
+.logo {
+  margin-top: 2%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.input-text {
+  margin: 0;
+  border: none;
+  border-radius: 0.4rem;
+  padding: 10px;
+  margin-bottom: 2%;
+}
+.todo-text {
+  text-align: left;
+  font-size: 16px;
+  display: inline-block;
+}
+
+.list ul li button {
+  position: absolute;
+  right: 0%;
+  background: #f34541;
+  color: #fff !important;
+  text-transform: uppercase;
+  text-decoration: none;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding: 10px;
+  border-radius: 0.4rem;
+  display: inline-block;
+  border: none;
+}
+
+.app-title {
+  text-align: center;
+  color: #fff;
+  font-size: 70px;
+}
+ul {
+  /* remove default padding and margin from ul*/
+  margin: 0px;
+  padding: 0px;
+}
+
+.list ul li {
+  margin-top: 1px;
+  display: block;
+  margin: 0 20%;
+  width: 60%;
+  text-decoration: none;
+  color: #000000;
+  background-color: #ffffff;
+  line-height: 30px;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-bottom-color: #cccccc;
+  border-radius: 0.4rem;
+  padding: 10px;
+  position: relative;
+}
+.App-header {
+  color: white;
+  text-align: right;
+  margin-right: 40%;
+  font-size: 15px;
+  margin-bottom: 25px;
+}
+.Add-btn {
+  width: 80px;
+  height: 35px;
+  border-radius: 0.4rem;
+  font-style: bold;
+  background-color: #6a097d;
+  color: white;
+
+  text-transform: uppercase;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+.container {
+  align-content: center;
+  color: #fff;
+  max-width: 500px;
+  margin: auto;
+  margin-left: 40%;
+}
